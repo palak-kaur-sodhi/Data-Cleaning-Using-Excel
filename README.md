@@ -2,7 +2,7 @@
 ## Objective:
 1. <strong> Cleaning dirty data </strong> given in 5 different sheets using MS Excel.
 
-##Approach:
+## Approach:
 <strong> Power Query in Excel has been used to clean the data. </strong>
 Below features of power query are used to achieve the goal:
 1. For <strong> Dirty_data_1: </strong> Transpose, Unpivot Columns, Promoting row to Headers

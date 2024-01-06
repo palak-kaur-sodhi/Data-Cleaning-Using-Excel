@@ -1,6 +1,6 @@
 # Data-Cleaning
 ## Objective:
-1. <strong> Cleaning dirty data </strong> given in 5 different worksheets using MS Excel. Data is transformed using <strong> Power Query </strong> and Loaded cleaned data back to the Excel workbook.
+1. <strong> Cleaning dirty data </strong> given in 5 different worksheets using MS Excel. Data is transformed using <strong> Power Query </strong> and loaded cleaned data back to the Excel workbook.
 
 ## Approach Used:
 Below features of power query are used to achieve the goal:

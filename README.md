@@ -1,11 +1,11 @@
 # Data-Cleaning
 
 ### Data_cleaning_1
-## Objective:
+## Objectives:
 1. <strong> Cleaning dirty data </strong> given in 5 different worksheets using MS Excel.
 2. Transforming data using <strong> Power Query </strong> and loading cleaned data back to the Excel workbook.
 
-## Approach Used:
+## Approaches Used:
 Below features of <strong> power query </strong> are used to achieve the goal:
 1. For <strong> Dirty_data_1: </strong> Transpose, Unpivot Columns, Promoting row to Headers, Fill down
 2. For <strong> Dirty_data_2: </strong> Transpose, Merge columns, Unpivot Columns
